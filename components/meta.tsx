@@ -32,6 +32,8 @@ const Meta = () => {
       <meta name="msapplication-config" content="/favicon/browserconfig.xml" />
       <meta name="theme-color" content="#000" />
       <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
+      <meta name="keywords" content="finance 360, financias, economia, estado"/>
+      <meta name="robots" content="index, follow"/>
       <meta
         name="description"
         content={`Finanças 360, o seu guia completo para o mundo das finanças! Aqui, você encontrará informações valiosas e perspicazes sobre todos os aspectos financeiros que afetam a sua vida. Desde dicas de investimento até estratégias para economizar dinheiro, nosso objetivo é fornecer uma visão abrangente e atualizada sobre o universo financeiro.`}
