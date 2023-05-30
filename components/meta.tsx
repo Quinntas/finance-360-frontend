@@ -34,7 +34,7 @@ const Meta = () => {
       <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
       <meta
         name="description"
-        content={`A statically generated blog example using Next.js and ${CMS_NAME}.`}
+        content={`Finanças 360, o seu guia completo para o mundo das finanças! Aqui, você encontrará informações valiosas e perspicazes sobre todos os aspectos financeiros que afetam a sua vida. Desde dicas de investimento até estratégias para economizar dinheiro, nosso objetivo é fornecer uma visão abrangente e atualizada sobre o universo financeiro.`}
       />
       <meta property="og:image" content={HOME_OG_IMAGE_URL} />
     </Head>
