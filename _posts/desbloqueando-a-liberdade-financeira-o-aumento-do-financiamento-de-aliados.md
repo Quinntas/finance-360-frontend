@@ -2,7 +2,7 @@
 title: "Desbloqueando a Liberdade Financeira: O Aumento do Financiamento de Aliados"
 excerpt: "O financiamento de aliados está revolucionando o cenário de empréstimos, fornecendo aos indivíduos soluções
 financeiras flexíveis e acessíveis."
-coverImage: "/assets/blog/generic/2.jpg"
+coverImage: "/assets/blog/generic/1.jpg"
 date: "2023-05-31T13:36:15."
 key_words: ['financiamento', 'aliados', 'empréstimos', 'flexíveis', 'acessíveis']
 description: "O financiamento de aliados está revolucionando o cenário de empréstimos, fornecendo aos indivíduos

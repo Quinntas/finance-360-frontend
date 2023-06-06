@@ -3,7 +3,7 @@ title: "Planejamento Financeiro Pessoal: Dicas de um Especialista"
 excerpt: "Muitas pessoas se sentem desconfortáveis ​​quando se trata de lidar com suas finanças pessoais. No entanto, é
 importante ter um bom conhecimento sobre como administrar seu dinheiro para alcançar seus objetivos financeiros. Aqui
 estão algumas dicas de um especialista para ajudá-lo a dominar seu planejamento financeiro pessoal."
-coverImage: "/assets/blog/generic/2.jpg"
+coverImage: "/assets/blog/generic/3.jpg"
 date: "2023-05-31T13:37:58."
 key_words: ['finanças', 'objetivos', 'orçamento', 'investir', 'economizar', 'ferramentas', 'disciplinado']
 description: "Este artigo oferece dicas de um especialista para ajudar a administrar suas finanças pessoais. Estas dicas

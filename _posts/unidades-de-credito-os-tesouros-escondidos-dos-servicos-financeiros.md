@@ -2,7 +2,7 @@
 title: "Unidades de Crédito: Os Tesouros Escondidos dos Serviços Financeiros"
 excerpt: "As Unidades de Crédito (UCDs) são uma forma única de serviços financeiros que oferecem aos seus membros uma
 abordagem centrada no cliente."
-coverImage: "/assets/blog/generic/2.jpg"
+coverImage: "/assets/blog/generic/4.jpg"
 date: "2023-05-31T13:39:15."
 key_words: ['Unidades de Crédito', 'Serviços Financeiros', 'Membro-Centricas', 'Taxas de Juros', 'Serviços de Investimento']
 description: "As Unidades de Crédito (UCDs) são uma forma única de serviços financeiros que oferecem aos seus membros
