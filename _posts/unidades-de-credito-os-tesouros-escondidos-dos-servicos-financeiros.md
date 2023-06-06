@@ -19,7 +19,7 @@ author:
     name: Caio Quintas
     picture: "/assets/blog/authors/quintas.jpg"
 ogImage:
-url: "/assets/blog/generic/4.jpg"
+    url: "/assets/blog/generic/4.jpg"
 ---
 
 # Unidades de Crédito: Os Tesouros Escondidos dos Serviços Financeiros

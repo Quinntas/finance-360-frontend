@@ -13,7 +13,7 @@ author:
     name: Caio Quintas
     picture: "/assets/blog/authors/quintas.jpg"
 ogImage:
-url: "/assets/blog/generic/3.jpg"
+    url: "/assets/blog/generic/3.jpg"
 ---
 
 # Planejamento Financeiro Pessoal: Dicas de um Especialista

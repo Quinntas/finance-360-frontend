@@ -21,7 +21,7 @@ author:
     name: Caio Quintas
     picture: "/assets/blog/authors/quintas.jpg"
 ogImage:
-url: "/assets/blog/generic/1.jpg"
+    url: "/assets/blog/generic/1.jpg"
 ---
 
 # Desbloqueando a Liberdade Financeira: O Aumento do Financiamento de Aliados
