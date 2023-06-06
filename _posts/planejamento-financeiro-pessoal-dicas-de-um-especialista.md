@@ -10,8 +10,8 @@ description: "Este artigo oferece dicas de um especialista para ajudar a adminis
 incluem estabelecer objetivos financeiros, criar um orçamento, investir, economizar e usar ferramentas financeiras. Além
 disso, é importante ser disciplinado ao administrar suas finanças."
 author:
-name: Caio Quintas
-picture: "/assets/blog/authors/quintas.jpg"
+    name: Caio Quintas
+    picture: "/assets/blog/authors/quintas.jpg"
 ogImage:
 url: "/assets/blog/generic/3.jpg"
 ---

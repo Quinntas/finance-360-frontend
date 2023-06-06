@@ -16,8 +16,8 @@ personalizado que atenda às suas necessidades específicas. Além disso, as UCD
 para ajudar os membros a tomar decisões financeiras informadas. Finalmente, as UCDs oferecem serviços de investimento
 que são projetados para ajudar os membros a alcançar seus objetivos financeiros."
 author:
-name: Caio Quintas
-picture: "/assets/blog/authors/quintas.jpg"
+    name: Caio Quintas
+    picture: "/assets/blog/authors/quintas.jpg"
 ogImage:
 url: "/assets/blog/generic/4.jpg"
 ---

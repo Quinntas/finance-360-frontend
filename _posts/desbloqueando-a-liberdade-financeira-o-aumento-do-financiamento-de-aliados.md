@@ -18,8 +18,8 @@ rapidamente. Como os empréstimos de aliados são geralmente mais curtos do que 
 podem obter o financiamento de que precisam em um curto espaço de tempo. O financiamento de aliados também oferece aos
 indivíduos a oportunidade de construir ou melhorar seu crédito."
 author:
-name: Caio Quintas
-picture: "/assets/blog/authors/quintas.jpg"
+    name: Caio Quintas
+    picture: "/assets/blog/authors/quintas.jpg"
 ogImage:
 url: "/assets/blog/generic/1.jpg"
 ---
