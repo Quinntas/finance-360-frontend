@@ -27,21 +27,7 @@ const Meta = () => {
                 href="/favicon/safari-pinned-tab.svg"
                 color="#000000"
             />
-            <script
-                async
-                src="https://www.googletagmanager.com/gtag/js?id=2E5XW98L7J"
-            />
-
-            <script
-                dangerouslySetInnerHTML={{
-                    __html: `
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());
-            gtag('config', '2E5XW98L7J');
-        `,
-                }}
-            />
+            
             <link rel="shortcut icon" href="/favicon/favicon.ico"/>
             <meta name="msapplication-TileColor" content="#000000"/>
             <meta name="msapplication-config" content="/favicon/browserconfig.xml"/>

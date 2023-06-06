@@ -18,6 +18,21 @@ export default function Index({allPosts}: Props) {
         <>
             <Layout>
                 <Head>
+                    <script
+                        async
+                        src={`https://www.googletagmanager.com/gtag/js?id=${process.env.NEXT_PUBLIC_GOOGLE_TAG}`}
+                    />
+
+                    <script
+                        dangerouslySetInnerHTML={{
+                            __html: `
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', '${process.env.NEXT_PUBLIC_GOOGLE_TAG}');
+        `,
+                        }}
+                    />
                     <title>{`Finance 360.`}</title>
                 </Head>
                 <Container>
