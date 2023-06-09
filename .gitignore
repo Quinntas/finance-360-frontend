@@ -9,6 +9,10 @@
 .idea/*
 .env
 
+/public/robots.txt
+/public/sitemap.xml
+/public/sitemap-0.xml
+
 /.idea
 
 # testing
