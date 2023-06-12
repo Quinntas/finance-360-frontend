@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://finance-360-frontend.vercel.app/
+
+# Sitemaps
+Sitemap: https://finance-360-frontend.vercel.app/sitemap.xml
